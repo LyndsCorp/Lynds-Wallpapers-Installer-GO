@@ -1,0 +1,26 @@
+{
+  "links": [
+    {
+      "file": "lynds_wallpapers_installer_go.py",
+      "dest": "/usr/bin",
+      "name": "lynds-wallpapers-installer-go",
+      "executable": true
+    },
+    {
+      "file": "lynds_wallpapers_installer_go.py",
+      "dest": "/usr/bin",
+      "name": "lynds-wallpapers-go",
+      "executable": true
+    },
+    {
+      "file": "icon.png",
+      "dest": "/usr/share/icons/hicolor/256x256/apps",
+      "name": "lynds-wallpapers-go.png"
+    },
+    {
+      "file": "lynds_wallpapers_installer_go.desktop",
+      "dest": "/usr/share/applications",
+      "name": "lynds_wallpapers_installer_go.desktop"
+    }
+  ]
+}

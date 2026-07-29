@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Lynds Wallpapers Installer GO
+Comment=Descargar fondos de pantalla libres para GNOME
+Exec=lynds-wallpapers-installer-go
+Icon=lynds-wallpapers-go
+Terminal=false
+Categories=Graphics;Utility;
+StartupNotify=true
